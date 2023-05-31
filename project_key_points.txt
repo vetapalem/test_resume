@@ -1,0 +1,10 @@
+Prepared logical scenarios and retrieving test cases
+Attended the BRD walkthroughs
+Smoke test case / test data preparation and System Testing test cases review.
+Reviewed the Test cases and updated with appropriate comments
+Executed the test cases, regression, and sanity and prepared the defects report and retesting
+Reported to clients on scripted scripts and test result
+Effectively communicated with the clients
+Prepared Automation scripts and designed Framework in Selenium
+Involved in end-to-end testing of application and follow-up of defect triage calls
+Involved the test plan and report sharing in the team

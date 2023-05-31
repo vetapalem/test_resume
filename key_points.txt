@@ -1,0 +1,19 @@
+QA,QC,QE Engineer with 2 Years of Experience in Information Technology, With 
+Specializing in Software Quality Assurance Testing, Proficient in testing Web based Applications
+Non-Functional Testing: Performance and Security Testing.
+Responsible for testing all the new features or modifications, functionality of the web application
+Good in Functional Testing, Integration Testing, Regression Testing, Black Box Testing, White Box Testing, Unit Testing, Graphical User Interface Testing (GUI), System Testing, User Acceptance Testing (UAT) browser compatibility Testing.
+Good in Developing python Selenium WebDriver test Scripts and Test Frameworks Using pytest/unittest
+Executed automation scripts on different browsers/environments & reported defects/results to the team
+Knowledge in Test Automation, scripts preparation and execution.
+Understanding Requirements, Test Cases, Test Automation, Test Execution, Defect Reporting & Tracking, Regression and Test Status Reporting
+Finding, logging and reporting bugs/defects/issues.
+Preparing & documenting all test related activities, Defect tracking and reporting.
+Re-testing the cases where defect has been raised.
+Work closely with other testers and developers for bug fixes and feature requests.
+Smoke & Sanity testing, Re-testing and regression testing.
+Strong communication & interaction with Clients, Developers, Business Analysts, Management.
+Proven ability in working individually or as a part of team, Problem solving, Process 
+improvement activities, Analytical skills, reporting and Assisting to Manager.
+Make a test on white box and black box testing
+Git and Github push local repo to remote repo 

@@ -1,0 +1,15 @@
+.name{
+    width: fit-content;
+    /* border: 2px solid; */
+    font-family: 'Castoro Titling', cursive;
+    border-right: 5px yellow;
+    
+}
+/* cursor blinkig
+
+@keyframes cursor{
+    50% {border-color: transparent;}
+}
+@keyframes typing{
+    from {width: 0}
+} */

@@ -1,0 +1,157 @@
+Over 7 years of QA experience in Expertise in functional testing UAT using Selenium IDE and Selenium WebDriver using Junit/TestNG testing framework.
+Expertise in Manual Testing and Automation Testing and Service Oriented Architecture.
+Experience in Manual and Automation Testing of Web Services/Mobile Apps, Client Server and Web based Applications in different domains using QTP, SOAP UI, ALM and Selenium.
+Hands on experience in Quality Assurance including Functional, System, Smoke, Regression , Integration, User Acceptance Test (UAT) and Compatibility Testing of Web and Client server - based Applications.
+Experience in all phases of Software Testing Life Cycle (STLC), Software Development Life Cycle (SDLC), Bug life Cycle and Methods like Waterfall and Agile.
+Proficient in Java and have sound knowledge on OOP (Object Oriented Programming) concepts.
+Exhaustive Experience in Design & implementation of Automation Frameworks including TDD, BDD, data driven, keyword driven, and hybrid using Selenium WebDriver, C#, and JavaScript.
+Used Eclipse IDE to develop & debug the code.
+Experience with understanding project architecture written in different programming languages VB Script, Java Script and databases like Oracle
+Extensive experience in using Automated tools like Ruby Cucumber test framework for Client/Server, Web and database applications.
+Built JavaScript based test framework using Cucumber JS, Webdriver IO, NODE.JS
+Ability to document and track defects as well as produce detailed reports using defect-tracking tools such as JIRA, Rally.
+Involved in setting of QA Test environment with simulated POS test environment.
+Created and Maintained Server-side Integration Test using Selenium Webdriver.
+Experienced in load and performance testing tool JMeter/Load runner
+Experience in Black box testing with a complete QA cycle from testing, defect logging and verification of fixed bugs.
+Excellent analytical, problem solving, communication and interpersonal skills along with a good attitude for learning.
+Responsible for creating and maintaining both Manual and Automated test suites for the entire project.
+Worked with Business Users and SME to design and implement the Test Plan.
+Extensive experience in Functional, Integration, Regression, User Acceptance (UAT), System, Load and Black Box testing.
+Analyze requirements and user stories before the build, by collaborating with product owners, and business analysts.
+Involved in Scrum agile methodology testing.
+Actively participate in Sprint planning to provide sizing for the testing stories of the sprint.
+Responsible for creating test scenarios for user stories and creating automation test suites using Python, Selenium Webdriver, Pytest framework.
+Extensively used Page Objects Design (POD) and page navigation framework for readable test scripts and easy maintenance from developer perspectives and responsible for creating automation framework using POM- Page Object Model, and Data Driven to test web application.
+Thorough understanding of POM using Page Factory.
+Responsible for executing the test cases, analyzing test failures and report issues, and defects through JIRA, Rally.
+Maintained the Regression test suite which should be run before every release, report any regression defects and get them fixed before the release.
+Analyzed and tested data on different Case and functionality manually and wrote queries on database for validating data.
+Executed various SQL queries to validate data and use for data driven testing using ORACLE SQL.
+Creating Regression test sets for various test projects and updating the test set after each test cycle.
+Used Postman for testing APIs, by sending requests to the web server and validating XML and JSON responses.
+Integrated with Continuous Integration tools like Jenkins for running tests on regular basis automatically.
+Automated highly transactional web application using Selenium WebDriver.
+Tested many features in an agile environment using Python, Django, HTML5, CSS, JavaScript.
+Involved in testing Web services (SOAP and REST) and XML with tool SOAP UI, for local WSDL with URL and created Test cases for load testing.
+Responsible for back-end API testing with SOAP UI.
+Participated in Walkthrough and defect report meetings periodically.
+Created tests with Assertions like Schema Compliance, SOAP, and XPath assertions using SOAP UI.
+Interacted with Business Clients, Product Owners, Developers and QA Manager for clear exposure to trickle down the technical/functional User Requirements & Change Requests to Test Plans and Test Scenarios.
+Identified the Test Scenarios based on Functional Specifications and Business Requirements.
+Perform Functional Testing, Regression Testing, System Integration testing, and End to End Testing.
+Identified test cases to automate. Automate those test cases using Selenium WebDriver, JUnit and Java technologies (Eclipse IDE) and in framework creation.
+Used Selenium WebDriver API to automate tests on cross browser and cross platform environment.
+Employed knowledge on Object Oriented Programming concepts and Java.
+Developed Test Framework in Selenium for UI Regression Test Automation and executed Unit Test automation (Java/Junit).
+Performed BDD(Behavior Driven Development) using Cucumber Features, Scenarios and Step Definitions in Gherkins format.
+Performed Testing user experiences on Mobile QA, experience with Android/iOS/Chrome testing.
+Responsible in Performance testing, debugging, executing, and analyzing complex applications using HP Load Runner
+Responsible in executing Selenium test scripts on different browsers and checked for compatibility.
+Tested the application in highly dynamic environment with sprint team using Agile methodology.
+Used Apache POI to read data from excel sheets.
+Used TestNG Parameter, TestNG.xml and Data Provider (Method and ITest Context) for parameterization .
+Implemented and maintained Page Object Model (POM) to maintain all reusable objects.
+Developed test code in Java using Eclipse IDE and TestNG framework.
+Performed Defect Tracking & Management using Jira.
+Automated test cases using Selenium for Regression testing and JUnit for grouping the tests.
+Used Selenium WebDriver for automation of Cross Browser Testing on IE, Firefox, Safari and Chrome.
+Configured Continuous Integration environment, using Jenkins to kickoff daily builds and automation suites Jenkins, Maven and GitHub. python
+Extensively worked in Regression testing using Selenium Webdriver in TestNG
+Created and enhanced numerous test scripts to handle changes in the objects, in the tested application's GUI and in the testing environment using Selenium WebDriver.
+Tested compatibility of application for dynamic and static content under various cross browsers using HTML ids and XPATH in Selenium.
+Involved in Functional Testing as Unit test, Method test, Test Suite, Integration Testing using different JUnit methods.
+Performed Automation testing (emulators & IOS Simulators) & Mobile Application Testing using Appium.
+Designed Hybrid Appium Test automation framework, using a Page Object Model for mobile applications (Android/iOS apps).
+Involved in Web services testing using SOAPUI/Ready API Tool. Validated request and response XML. Added assertions to validate the XML in SOAP and RESTFUL Web services.
+Executed automated tests on each new build created, and automatically reports the results.
+Performed data drove testing by using JDBC and Groovy script as a data source in SOAP UI and configured.
+Used Maven to build and run the Selenium automation framework and send the automation reports over email upon completion.
+Provide all data validation through SQL queries to perform Back-end testing
+Participated in Walkthrough and defect report meetings periodically.
+Responsible for keeping up with the test schedule and interacting with software engineers to ensure clear communications on requirements and defect reports.
+Prepared Test Plans, Test Scripts and Test Cases based on functional specifications and user requirements.
+Performed Automation Testing of each Build and Regression testing on each build using C# and Selenium Webdriver.
+Used Java language and Junit framework to create unit tests to be run against each Pull Request.
+Designed test cases based on use-cases and the complex business logic defined for each web-service.
+Designed and Developed UAT Regression automation scripts and Automation of functional testing framework for all modules using Selenium and WebDriver.
+Created test data and requests for the test data dependencies with other applications to be used in ­the testing activities for the current release.
+Created Data Driven scripts for adding multiple customers, checking online accounts, user interface validations, reports management, etc.
+Used XPath to work with dynamic and static objects in Selenium.
+Utilized various test tools for automation of test cases, generation of test reports and extensive Web Services testing using SOAP UI.
+Used SOAP UI tool to test SOA based architecture application to test SOAP services and REST API.
+Performed Smoke, Functionality, Integration, System, Regression tests based on Analysis, and understanding of the requirements, non-functional specifications, and end-user needs.
+Prepared test cases, test data and test responsibility matrices for the application under test.
+Executed Test Cases recorded in HP Quality Center manually to test the application for its functionality, system integration and verify Exit Criteria.
+Used GIT as code repository and Code Collaborator to manage code reviews.
+As part of compatibility testing, executed the workflow manager web application related test cases on different browsers and different mobile Operating Systems.
+Implemented and worked on Acceptance Test Driven Development (ATDD) making use of agile methodologies.
+Used Quick Test Professional (QTP) for regression testing and running automation suites.
+Experience in performing Backend/Database testing and creating and executing SQL queries from SQL Server, Oracle for Data Integrity Expertise in Risk Analysis, preparation of RTM &Prioritize Test case.
+Logged defects with detailed description, screenshots and log trace in TFS
+Used TOAD for Oracle in creating and executing SQL queries for testing ETL process.
+Performed Back-End Testing, and database table manipulations of relational database systems by writing complex SQL queries manually.
+Analysis of Business and Requirement Specifications. Designing Test Lab and formulation of Test Strategy, Test Plans Performed functional testing to identify various critical points in the application and automated it by using Selenium WebDriver.
+Involved in implementation of Test Automation Framework build using Selenium WebDriver, TestNG and Maven technologies under Java platform utilizing industry leading harness design patterns and approaches.
+Developed Test Frameworks in Selenium for UI Regression Test Automation and when necessary, and potentially execute Unit Test Automation (Java /TestNG).
+Experienced in using Apache POI to read data from external sources to feed locators into the test script.
+Developed automation scripts for Mobile Native applications (IOS, Android) using Appium, Java.
+Developed and maintained automated regression test cases in Selenium Web Driver and Appium Mobile Automation using Java programming language.
+Configured Selenium WebDriver, TestNG, and Maven tool and created Selenium automation scripts in Java, using Junit prior to agile release.
+Experience in Performance, Load and stress testing with the complete cycle of Load test planning starting from creating the Load Dictionary and Test plan then to Live/Simulated Data and Create scripts and Analyze and publish the test results with Suggestions .
+Expertise in using Jenkins for adding scripts, building suites and analyzing the results.
+Performed testing using TestNG for class, method, & WebServices testing.
+Involved in Maven configuration for running servers and scripts after the build.
+Involved in preparing a report of all automation difficulties and test results for further application using Maven.
+Executing the test plans on web and mobile (Apple & Android) as per requirements.
+Implemented simulator for Mobile App Testing in Android Platform using Appium.
+Experienced in load and performance testing tool JMeter.
+Wrote Ruby tests using Cucumber Framework.
+Wrote and executed SQL queries to verify data updates to various tables and ensure data integrity.
+Used Jenkins as continuous integration server to run automated test suites.
+Used web-debugging tools like XPath, Firebug and Firepath to locate elements.
+Performed Regression testing for new builds and every modification in the application using Selenium.
+Used Selenium WebDriver to run test cases in multiple browsers and Platforms.
+Performed data driven testing by using JDBC as a data source in SOAP UI and configured SQL queries to fetch data from the Oracle database.
+Tested the various Service Oriented Architectures (SOA) spanning across various web services using SOAP and WSDL across various applications using SOAP UI.
+Reported software defects in Quality Center and interacted with developers to resolve technical issues.
+Analyzed test results, tracked the defects and generated reports using Quality Center.
+Involved in designing and building automation frameworks in support of continuous integration in a test-driven development (TDD).
+Good experience in developing Perl scripts to verify functionality and performance of the modem chipsets for all modes of UE.
+Performed Smoke Testing to make sure all the Test Channels and Test Environment is working as desired.
+Prepared the data to cover various scenarios and wrote SQL scripts to verify the database updates, inserts and deletion of the records.
+Maintained Requirement Traceability Matrix (RTM) to make sure that all the requirements are covered in test cases.
+Maintained test cases and QA documentation using SharePoint.
+Involved in Creating and maintaining Object repositories, Function Libraries and Recovery scenarios using QTP.
+Maintained Metrics and participated in the Weekly Status Updates showing the progress of testing efforts and open issues to be resolved.
+Experience in Data Driven testing using parameterization and Key word driven automation framework using functional testing tool Quick Test Professional (QTP).
+Used Quick Test Professional (QTP) for regression testing and running the automation suite.
+Experience in performing Backend/Database testing and creating and executing SQL queries from SQL Server, Oracle for Data Integrity Expertise in Risk Analysis, preparation of RTM &Prioritize Test case.
+Expertise in the areas of Software testing end to end cycle, GUI, Functional, Data Validation, System testing and Regression, User Acceptance testing (UAT) and Performance testing & Web Services testing for Client Server and web applications.
+Experience in interacting with business analysts, stake holders, developers and technical support in analyzing the requirement specifications.
+Strong Knowledge on the phases of Software Development Life Cycle (SDLC) Methodology, Agile (Agile & Scrum) and Software Test life cycle (STLC), Waterfall, V model
+Experience in QA Verification and QA Validations to ensure the Quality Assurance control.
+Used the bug tracking tool HP Quality Center (HP QC) for Running Tests, Raising, Tracking, Managing Defect and Reporting.
+Experience in Functional Testing, Data Driven Testing, Load Testing and Validating WSDL using SOAPUI.
+Validating Web service modules using Soap UI tool (Preparing web service request and added authentication information in Soap Header) Possess understanding of WSDL , schema, XML documents for Web Service Testing
+Experience in Black Box testing and Technical testing by using various testing techniques
+Experienced in preparing the overall test methodology - Project documentation, Test Plans, Test Strategy, Deliverables, Test Scripts, Test Cases and Test Data.
+Used Excel for data prep in regard to UAT and data cleansing.
+Developed Test Cases to test Web Services and RESTful calls using SOAPUI tool.
+Performed Manual testing for checking the functionality and executed the Test cases in Quality Center.
+Understanding the requirement specification and preparing test cases for the requirements.
+Preparing the Reports for submitting weekly or monthly status to the manager. Worked on Waterfall Model Methodology.
+Execute and evaluate manual or automated test cases and report test results.
+Hold and facilitate test plan/case reviews with cross-functional team members.
+Performed manual testing by entering positive values, negative values, and boundary values to the application.
+Performed Black box, Integration, Regression, Systems, and Backend testing, Unit testing.
+Created, maintained and updated regression suites upon receiving new build.
+Worked on conversion of manual tests into automated test scripts.
+Performed Backend testing by writing SQL Queries for different set of Input parameters to ensure the data integrity.
+Written several SQL queries and analyzed them to validate the business rules in Oracle database through SQL Developer as part of Backend testing.
+Created Test Scripts in Soap UI and executed Test cases for XML using Soap UI Tool
+Performed web services testing with SOAP UI by validating request and response for XML files.
+Used QC for tracking the errors and reporting the bugs. Reported and assigned the defects to the developer through Quality center.
+
+
+
